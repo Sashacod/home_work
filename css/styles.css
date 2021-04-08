@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background {
+    background-image: url(../img/cover.png);
+    background-size: cover;
+    height: 600px;
+}
+.header {
+    position: relative;
+}
+.logo {
+    width: 106px;
+    height: 32px;
+    position: absolute;
+    top: 35px;
+    left: 135px;
+}
+.navigation {
+    top: 40px;
+    left: 420px;
+    width: auto;
+}
+.item {
+    float: left;
+    width: 25%;
+    position: absolute;
+    top: 40px;
+    left: 420px;
+}
+
