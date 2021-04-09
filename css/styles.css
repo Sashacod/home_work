@@ -12,8 +12,6 @@
 }
 .header {
     position: relative;
-    max-width: 1440px;
-    margin: 0 auto;
 }
 .logo {
     width: 106px;
@@ -59,7 +57,7 @@ a {
     font-size: 58px;
     font-style: normal;
     font-weight: 800;
-    max-width: 45%;
+    max-width: 25%;
 }    
 .paragrah {
     position: fixed;
@@ -69,5 +67,10 @@ a {
     font-style: normal;
     font-weight: 500;
     color: #737373;
-    max-width: 30%;
+    max-width: 15%;
+}
+.item_but {
+    border-bottom: black;
+    float: left;
+    width: 50%;
 }
