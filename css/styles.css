@@ -69,7 +69,10 @@ a {
     margin: 0% 37% 0% 0%;
 }
 .button {
-    
+    position: absolute;
+    top: 475px;
+    left: 195px;
+
 }
 .item_but {
     border-bottom: black;
