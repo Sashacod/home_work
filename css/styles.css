@@ -8,7 +8,7 @@
 .background {
     background-image: url(../img/cover.png);
     background-size: cover;
-    height: 600px;
+    height: 900px;
 }
 .header {
     position: relative;
@@ -50,24 +50,26 @@ a {
     right: 60px;
     color: #252B42;
 }
-.hed {  
-    position: fixed;
+.words {
+    position: absolute;
     top: 185px;
     left: 195px;
+    max-width: 25%;
+}
+.hed {  
     font-size: 58px;
     font-style: normal;
     font-weight: 800;
-    max-width: 25%;
 }    
 .paragrah {
-    position: fixed;
-    top: 380px;
-    left: 195px;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
     color: #737373;
-    max-width: 15%;
+    margin: 0% 37% 0% 0%;
+}
+.button {
+    
 }
 .item_but {
     border-bottom: black;
