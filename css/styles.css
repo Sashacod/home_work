@@ -72,10 +72,18 @@ a {
     position: absolute;
     top: 475px;
     left: 195px;
-
+    min-width: 25%;
+    text-align: center;
 }
 .item_but {
-    border-bottom: black;
+    border: #00A0C1 solid 1px;
     float: left;
     width: 50%;
+    border-radius: 37px;
+    padding: 3%;
+}
+.color {
+    color: #00A0C1;
+    font-size: 14px;
+    font-weight: bold;
 }
