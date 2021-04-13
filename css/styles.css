@@ -81,9 +81,18 @@ a {
     width: 50%;
     border-radius: 37px;
     padding: 3%;
-}
-.color {
     color: #00A0C1;
     font-size: 14px;
     font-weight: bold;
+    line-height: 28px;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
 }
+.item_but:hover{
+    border: #FFA62B solid 1px;
+    color: white;    
+    background:#FFA62B;
+
+}
+
+    
