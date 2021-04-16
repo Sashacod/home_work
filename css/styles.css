@@ -31,6 +31,7 @@
     font-size: 14px;
     font-style: normal;
     font-weight: 600;
+    list-style-type: none;
 }
 .burger {
     float: left;
@@ -113,7 +114,7 @@
     border: #00A0C1 solid 1px;
     float: left;
     border-radius: 37px;
-    padding: 3%;
+    padding: 1em;
     color: #00A0C1;
     font-size: 14px;
     font-weight: bold;
